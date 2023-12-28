@@ -9,7 +9,7 @@ body {
 
 
 .title-block {
-    background: url('img/title-block/bgheader.png') 0 0/cover no-repeat;
+    background: url('/img/title-block/bgheader.png') 0 0/cover no-repeat;
 
 
     &__content {
@@ -71,7 +71,7 @@ body {
 
 
         &::after {
-            content: url('img/icons/title/arrowdown.svg');
+            content: url('/img/icons/title/arrowdown.svg');
             margin-top: 72px;
             display: flex;
             justify-content: center;
@@ -300,7 +300,7 @@ body {
 }
 
 .partners {
-    background: url('img/partners/bgheadercopy.png') center no-repeat;
+    background: url('/img/partners/bgheadercopy.png') center no-repeat;
 
     &__body {
         max-width: 616px;
