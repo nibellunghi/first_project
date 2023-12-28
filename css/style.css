@@ -79,7 +79,7 @@ body {
 }
 
 .title-block {
-  background: url("/img/title-block/bgheader.png") 0 0/cover no-repeat;
+  background: url("./img/title-block/bgheader.png") 0 0/cover no-repeat;
 }
 .title-block__content {
   max-width: 900px;
@@ -141,7 +141,7 @@ body {
   padding-bottom: 153px;
 }
 .title-block__bottom::after {
-  content: url("/img/icons/title/arrowdown.svg");
+  content: url("./img/icons/title/arrowdown.svg");
   margin-top: 72px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -383,7 +383,7 @@ body {
 }
 
 .partners {
-  background: url("/img/partners/bgheadercopy.png") center no-repeat;
+  background: url("./img/partners/bgheadercopy.png") center no-repeat;
 }
 .partners__body {
   max-width: 616px;
